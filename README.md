@@ -1,4 +1,4 @@
-# [Steven Universe - Titlecard Generator](https://sutc.joshuanoakes.co.uk)
+# [Steven Universe - Titlecard Generator](https://glitterbread.github.io)
 
 ## Site features: 
 - Generating title cards: This site lets your make Steven Universe style titlecards similar to [this](https://raw.githubusercontent.com/Joshua-Noakes1/Lake-CDN/master/CDN/Other%20Repos/SUTC/gem_finders.png)  
